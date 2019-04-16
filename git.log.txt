@@ -1,0 +1,47 @@
+commit 69a2fdc13ffp3f6c785633f0b011dfe4b1b90314
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Fri Apr 05 18:30:50 2019 -0600
+
+    final update
+
+commit 2ae3a3pprv34445178f000735342e051eaaf04dc
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Thu Apr 04 22:15:27 2019 -0600
+
+    rechecking the program
+
+commit pce352a2f3fapa24ad088fc58b60b1f2a5e1392a
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Thu Apr 04 15:22:10 2019 -0600
+
+    fixed updated
+
+commit 40as99wta121ffaa96e78f168b23acba087c5ddd
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Fri Mar 29 19:22:41 2019 -0600
+
+    changing/deleting some variables
+
+commit 24da2s5fqw2fbe53bdd1609fe2df5d6f6064baf4
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Thu Mar 28 20:19:10 2019 -0600
+
+    update error fixed
+
+commit b1a3p421p48a031b0ac8e99fb04c04e8b86525d2
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Wed Mar 27 11:28:59 2019 -0600
+
+    fixing the loop error
+
+commit edacc117ff12db57881a212ea682f77210562c57
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Tue Mar 26 15:01:19 2019 -0600
+
+    debugging and rechecking for errors
+
+commit b19135pt0m3249126a5793249be2c2b6c97232ff
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Mon Mar 25 10:38:29 2019 -0600
+
+    Half way to go
